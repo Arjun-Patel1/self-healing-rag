@@ -1,0 +1,16 @@
+chromadb
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+pydantic
+fastapi
+python-dotenv
+rich
+uvicorn
+transformers
+torch
+faiss-cpu
+scikit-learn
+python-multipart
+streamlit

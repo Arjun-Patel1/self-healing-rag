@@ -1,0 +1,19 @@
+{
+  "ts": "20251208T134428",
+  "schema_problems": [],
+  "duplicates_sample": [],
+  "retrieval_health": {
+    "What is photosynthesis?": {
+      "avg_score": 1.1932521363099415,
+      "top_k": 3
+    },
+    "Explain neural networks": {
+      "avg_score": 1.152797818183899,
+      "top_k": 3
+    },
+    "What is blockchain?": {
+      "avg_score": 1.4750674565633137,
+      "top_k": 3
+    }
+  }
+}

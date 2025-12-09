@@ -1,0 +1,27 @@
+[
+  {
+    "doc_id": "1",
+    "title": "Photosynthesis Basics",
+    "chunk": "Photosynthesis is the process by which green plants use sunlight to synthesize foods from carbon dioxide and water."
+  },
+  {
+    "doc_id": "2",
+    "title": "Machine Learning Definition",
+    "chunk": "Machine learning is a field of AI that allows systems to learn patterns from data and improve over time without explicit programming."
+  },
+  {
+    "doc_id": "3",
+    "title": "RAG Pipeline Explanation",
+    "chunk": "Retrieval Augmented Generation (RAG) is an architecture where an LLM retrieves relevant documents before generating an answer."
+  },
+  {
+    "doc_id": "4",
+    "title": "The Solar System",
+    "chunk": "The solar system consists of the Sun and the objects that orbit it, including the eight planets and their moons."
+  },
+  {
+    "doc_id": "5",
+    "title": "Neural Networks",
+    "chunk": "A neural network is a computational model inspired by the human brain, consisting of layers of interconnected nodes."
+  }
+]

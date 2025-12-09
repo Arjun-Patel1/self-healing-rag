@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "tag": "20251208T134343",
+      "index_file": "index_versions\\20251208T134343\\vector.index",
+      "meta_file": "index_versions\\20251208T134343\\metadata.json",
+      "ts": "20251208T134343"
+    },
+    {
+      "tag": "20251208T155758",
+      "index_file": "index_versions\\20251208T155758\\vector.index",
+      "meta_file": "index_versions\\20251208T155758\\metadata.json",
+      "ts": "20251208T155758"
+    }
+  ]
+}
