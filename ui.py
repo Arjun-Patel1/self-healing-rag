@@ -1,3 +1,4 @@
+'''
 # ui.py
 import streamlit as st
 import requests
@@ -52,3 +53,4 @@ if st.button("Submit") and question:
 
         except requests.exceptions.ConnectionError:
             st.error("Could not connect to the API. Make sure api.py is running.")
+'''
