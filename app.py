@@ -1,4 +1,4 @@
-'''import streamlit as st
+import streamlit as st
 from retriever import Retriever
 from detector_healer import DetectorHealer
 from transformers import pipeline
@@ -70,4 +70,3 @@ if st.button("Submit") and question:
     if final["hallucinated"]:
         st.warning("Hallucinations detected and corrected.")
         st.write("Reason:", final["reason"])
-'''
